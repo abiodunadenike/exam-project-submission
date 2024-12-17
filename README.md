@@ -1,3 +1,5 @@
+MY IP ADDRESS: 52.72.114.109
+
 STEP BY STEP DOCUMENTATION OF HOW I PROVISIONED THE SERVER, INSTALLED THE WEB SERVER, DEPLOYED THE HTML PAGE, AND CONFIGURED NETWORKING
 The first step is creating an EC2 instance in AWS console. An Amazon Web Service EC2 instance is one of the most popular AWS services worldwide. It is a virtual server in the AWS Cloud that provides the computing resources your applications and services need to run, such as CPU, memory, storage, and networking.
 To create an EC2 instance, these are steps:
